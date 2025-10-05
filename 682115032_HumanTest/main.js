@@ -1,6 +1,8 @@
 /*
   953104 – Assignment: Human Test – Select All That Match
   Starter code with guidance comments
+
+  Peerawit Yawirach 682115032
 */
 
 const TOPICS = [
